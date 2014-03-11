@@ -1,6 +1,7 @@
 imports:
     - { resource: '@AyamelResourceBundle/Resources/config/config.yml' }
     - { resource: '@AyamelApiBundle/Resources/config/config.yml' }
+#    - { resource: '@AyamelSecurityBundle/Resources/config/config.yml' }
     - { resource: '@AyamelFilesystemBundle/Resources/config/config.yml' }
     - { resource: '@AyamelTranscodingBundle/Resources/config/config.yml' }
     - { resource: '@AyamelYouTubeBundle/Resources/config/config.yml' }

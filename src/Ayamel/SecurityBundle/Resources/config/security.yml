@@ -1,0 +1,4 @@
+# this bundle provides the symfony security config with all the custom stuff defined here
+
+#security:
+#	foo: bar

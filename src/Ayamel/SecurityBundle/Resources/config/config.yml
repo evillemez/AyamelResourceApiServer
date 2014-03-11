@@ -1,0 +1,12 @@
+imports:
+    - { resource: '@AyamelSecurityBundle/Resources/security.yml' }
+
+
+parameters:
+#    ayamel_security.example.class: Ayamel\SecurityBundle\Example
+
+services:
+#    ayamel_security.example:
+#        class: %ayamel_security.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
+
